@@ -14,6 +14,7 @@ footer{
     margin-top: 160px;
 }
 header{
+    background-color: #0080FF;
     display: flex;
 }
 
@@ -80,7 +81,7 @@ input[type="submit"]{
     border: 2px solid black;
     width: 45%;
     margin: auto;
-    background-color: #02b4fa;
+    background-color: #0080FF;
     font-weight: bolder;
     font-size: 30px;
     cursor: pointer;
